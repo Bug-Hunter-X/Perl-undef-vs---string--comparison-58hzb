@@ -1,0 +1,1 @@
+my $var = undef;if (defined $var && $var eq 'some string'){print "true"}elsif (!defined $var){print "Variable is undefined"}else{print "false"}
