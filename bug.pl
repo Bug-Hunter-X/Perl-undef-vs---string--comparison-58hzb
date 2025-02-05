@@ -1,0 +1,1 @@
+my $var = undef;if ($var eq 'some string'){print "true"}else{print "false"}
